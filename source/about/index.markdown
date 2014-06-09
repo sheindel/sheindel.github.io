@@ -4,7 +4,7 @@ title: "About Me"
 date: 2014-04-09 10:10
 comments: false
 sharing: false
-footer: true
+footer: false
 ---
 ## Hello!
 
