@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | An Adventure In Technology]]></title>
+  <link href="http://sheindel.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://sheindel.github.io/"/>
+  <updated>2014-06-09T16:31:05-04:00</updated>
+  <id>http://sheindel.github.io/</id>
+  <author>
+    <name><![CDATA[Stephen Heindel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello [to a Whole New] World!]]></title>
+    <link href="http://sheindel.github.io/blog/2014/04/09/hello-to-a-whole-new-world/"/>
+    <updated>2014-04-09T09:50:57-04:00</updated>
+    <id>http://sheindel.github.io/blog/2014/04/09/hello-to-a-whole-new-world</id>
+    <content type="html"><![CDATA[<p>Hello, internet! I mean, world! Welcome to my website/blog! I&rsquo;ve decided to start using octopress for this site so as to save myself lots of time in desiging a website by hand. However, I will certainly still be making numerous changes to the layout over the next couple (days, months, years&hellip;). I hope you enjoy reading all about my fun adventures into the infinitely fascinating world of technology!</p>
+]]></content>
+  </entry>
+  
+</feed>

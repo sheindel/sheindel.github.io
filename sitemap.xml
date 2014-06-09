@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://sheindel.github.io/blog/2014/04/09/hello-to-a-whole-new-world/</loc>
+        <lastmod>2014-06-09T13:52:23-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sheindel.github.io/about/</loc>
+        <lastmod>2014-06-09T13:52:23-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sheindel.github.io/</loc>
+        <lastmod>2014-06-09T13:52:23-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sheindel.github.io/robots.txt</loc>
+        <lastmod>2014-06-09T13:52:23-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sheindel.github.io/blog/archives/</loc>
+        <lastmod>2014-06-09T13:52:23-04:00</lastmod>
+    </url>
+</urlset>
