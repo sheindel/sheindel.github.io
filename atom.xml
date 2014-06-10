@@ -4,7 +4,7 @@
   <title><![CDATA[An Adventure In Technology]]></title>
   <link href="http://sheindel.github.io/atom.xml" rel="self"/>
   <link href="http://sheindel.github.io/"/>
-  <updated>2014-06-10T14:26:48-04:00</updated>
+  <updated>2014-06-10T14:29:06-04:00</updated>
   <id>http://sheindel.github.io/</id>
   <author>
     <name><![CDATA[Stephen Heindel]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Disqus Test]]></title>
-    <link href="http://sheindel.github.io/blog/2014/06/10/disqus-test/"/>
-    <updated>2014-06-10T14:20:40-04:00</updated>
-    <id>http://sheindel.github.io/blog/2014/06/10/disqus-test</id>
-    <content type="html"><![CDATA[<p>This is a test</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[About This Site]]></title>
@@ -47,7 +38,7 @@ create very nice and formatted posts without the clumsiness of a <a href="http:/
 <blockquote><p>Ordinary people believe only in the possible. Extraordinary people visualize not what is possible or probable, but rather what is impossible. And by visualizing the impossible, they begin to see it as possible</p><footer><strong>Cherie Carter-Scott</strong></footer></blockquote>
 
 
-<p>Thanks for sticking it out to the end of my first rambling. Obviously if you ever have any questions about the content you see here, please leave me a comment and I&rsquo;ll do my best to respond. Or until I decide on a contact form, feel free to email me at <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#77;&#x79;&#70;&#x69;&#114;&#x73;&#x74;&#78;&#x61;&#109;&#101;&#46;&#77;&#x79;&#x4c;&#97;&#115;&#116;&#x4e;&#x61;&#109;&#x65;&#x40;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#109;">&#x4d;&#x79;&#70;&#x69;&#114;&#x73;&#x74;&#x4e;&#97;&#x6d;&#x65;&#46;&#77;&#121;&#76;&#97;&#x73;&#x74;&#x4e;&#x61;&#x6d;&#101;&#x40;&#103;&#109;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;</a> (I&rsquo;m trying to avoid a lot of spambots&hellip;) Thanks for reading!</p>
+<p>Thanks for sticking it out to the end of my first rambling. Obviously if you ever have any questions about the content you see here, please leave me a comment and I&rsquo;ll do my best to respond. Or until I decide on a contact form, feel free to email me at <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#58;&#77;&#x79;&#70;&#x69;&#114;&#x73;&#x74;&#x4e;&#x61;&#109;&#101;&#x2e;&#77;&#121;&#x4c;&#97;&#115;&#116;&#x4e;&#x61;&#x6d;&#x65;&#x40;&#103;&#x6d;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#77;&#121;&#x46;&#105;&#114;&#115;&#x74;&#x4e;&#97;&#109;&#101;&#46;&#77;&#121;&#76;&#x61;&#115;&#x74;&#78;&#x61;&#x6d;&#x65;&#64;&#103;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a> (I&rsquo;m trying to avoid a lot of spambots&hellip;) Thanks for reading!</p>
 ]]></content>
   </entry>
   
