@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | An Adventure In Technology]]></title>
   <link href="http://sheindel.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://sheindel.github.io/"/>
-  <updated>2014-06-10T15:24:45-04:00</updated>
+  <updated>2014-06-10T15:54:24-04:00</updated>
   <id>http://sheindel.github.io/</id>
   <author>
     <name><![CDATA[Stephen Heindel]]></name>
@@ -22,6 +22,9 @@
 
 <p>I thought a nice start to these blogs would be a very brief explanation of this website. One of the difficulties for me was dealing with the complications of hosting my own website. It&rsquo;s not entirely difficult to run a <a href="http://en.wikipedia.org/wiki/LAMP_(software_bundle">LAMP</a> stack on my <a href="http://www.raspberrypi.org/">Raspberry Pi</a> with a dynamic and free hostname from <a href="http://www.noip.com/">no-ip</a>, but then there are other issues of speed and security that need to be addressed. Granted, these are not difficult things to learn about with a bit of Googling, and I have learned a lot, but ultimately I just wanted a platform where I didn&rsquo;t have to constantly mess around with the <a href="http://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript">HTML, CSS, and JavaScript</a> and could instead focus on the content.</p>
 
+<!-- more -->
+
+
 <p>Enter <a href="https://pages.github.com/">GitHub Pages</a> and <a href="http://octopress.org/">Octopress</a>. I won&rsquo;t bore you with the technical details of these two items as you can read about them on the respective websites, but what I will tell you is that Octopress has bridged a huge gap for me by letting me add content from the command line and edit it using a beautiful and powerful <a href="http://en.wikipedia.org/wiki/Markup_language">markup language</a> known as <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. Markdown allows me to
 create very nice and formatted posts without the clumsiness of a <a href="http://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a> editor. Of course, I&rsquo;m not one of those ardent command line purist-type programmers who thinks that their way is the best&hellip;</p>
 
@@ -35,7 +38,16 @@ create very nice and formatted posts without the clumsiness of a <a href="http:/
 
 <p>What I truly hope to accomplish is to take whatever skill and expertise that I have acquired to be able to pull information from all over the massive World Wide Web and tie it together for your edification and enjoyment. One of my revelations upon entering the vast world of computer engineering was that there was so much that was possible that I previously couldn&rsquo;t have imagined. It wasn&rsquo;t that the things I was interested in had always been impossible, it was simply that now I understood enough to perceive how to make the impossible possible. With a bit of Googling, I found a nice quote that summarizes my thoughts well.
 <blockquote><p>Ordinary people believe only in the possible. Extraordinary people visualize not what is possible or probable, but rather what is impossible. And by visualizing the impossible, they begin to see it as possible</p><footer><strong>Cherie Carter-Scott</strong></footer></blockquote>
-Thanks for sticking it out to the end of my first rambling. Obviously if you ever have any questions about the content you see here, please leave me a comment and I&rsquo;ll do my best to respond. Or until I decide on a contact form, feel free to email me at <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#77;&#121;&#x46;&#105;&#114;&#x73;&#x74;&#78;&#x61;&#x6d;&#x65;&#x2e;&#x4d;&#121;&#x4c;&#x61;&#115;&#116;&#78;&#x61;&#109;&#x65;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;">&#x4d;&#x79;&#x46;&#x69;&#114;&#115;&#116;&#x4e;&#97;&#x6d;&#x65;&#x2e;&#x4d;&#121;&#76;&#x61;&#115;&#116;&#x4e;&#97;&#x6d;&#101;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;</a> (I&rsquo;m trying to avoid a lot of spambots&hellip;) Thanks for reading!</p>
+Thanks for sticking it out to the end of my first rambling. Obviously if you ever have any questions about the content you see here, please leave me a comment and I&rsquo;ll do my best to respond. Or until I decide on a contact form, feel free to email me at <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#x4d;&#x79;&#x46;&#105;&#x72;&#115;&#x74;&#78;&#97;&#109;&#101;&#x2e;&#x4d;&#x79;&#x4c;&#97;&#x73;&#x74;&#78;&#97;&#109;&#x65;&#64;&#x67;&#x6d;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x4d;&#121;&#x46;&#105;&#x72;&#115;&#116;&#x4e;&#97;&#109;&#x65;&#x2e;&#x4d;&#121;&#x4c;&#x61;&#x73;&#116;&#x4e;&#97;&#x6d;&#101;&#x40;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;</a> (I&rsquo;m trying to avoid a lot of spambots&hellip;) Thanks for reading!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello [to a Whole New] World!]]></title>
+    <link href="http://sheindel.github.io/blog/2014/04/09/hello-to-a-whole-new-world/"/>
+    <updated>2014-04-09T09:50:57-04:00</updated>
+    <id>http://sheindel.github.io/blog/2014/04/09/hello-to-a-whole-new-world</id>
+    <content type="html"><![CDATA[<p>Hello, internet! I mean, world! Welcome to my website/blog! I&rsquo;ve decided to start using octopress for this site so as to save myself lots of time in desiging a website by hand. However, I will certainly still be making numerous changes to the layout over the next couple (days, months, years&hellip;). I hope you enjoy reading all about my fun adventures into the infinitely fascinating world of technology!</p>
 ]]></content>
   </entry>
   
