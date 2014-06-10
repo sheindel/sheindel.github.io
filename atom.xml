@@ -4,7 +4,7 @@
   <title><![CDATA[An Adventure In Technology]]></title>
   <link href="http://sheindel.github.io/atom.xml" rel="self"/>
   <link href="http://sheindel.github.io/"/>
-  <updated>2014-06-09T18:59:43-04:00</updated>
+  <updated>2014-06-09T22:14:59-04:00</updated>
   <id>http://sheindel.github.io/</id>
   <author>
     <name><![CDATA[Stephen Heindel]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This Is a Test]]></title>
+    <link href="http://sheindel.github.io/blog/2014/06/09/this-is-a-test/"/>
+    <updated>2014-06-09T22:11:03-04:00</updated>
+    <id>http://sheindel.github.io/blog/2014/06/09/this-is-a-test</id>
+    <content type="html"><![CDATA[<p>This is me writing a blog post. Learned stuff from <a href="www.google.com">Google</a>. I
+can do <strong>bold text</strong>, <strong>underlined text</strong></p>
+
+<h1>Header 1</h1>
+
+<p>Text</p>
+
+<h2>Header 2</h2>
+
+<p>Blah</p>
+
+<h3>Header 3</h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[About This Site]]></title>
