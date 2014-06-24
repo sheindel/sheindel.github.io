@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Word Cloud | An Adventure In Technology]]></title>
+  <link href="http://sheindel.github.io/blog/categories/word-cloud/atom.xml" rel="self"/>
+  <link href="http://sheindel.github.io/"/>
+  <updated>2014-06-24T15:22:13-04:00</updated>
+  <id>http://sheindel.github.io/</id>
+  <author>
+    <name><![CDATA[Stephen Heindel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[About This Site II]]></title>
+    <link href="http://sheindel.github.io/blog/2014/06/24/about-this-site-ii/"/>
+    <updated>2014-06-24T14:51:21-04:00</updated>
+    <id>http://sheindel.github.io/blog/2014/06/24/about-this-site-ii</id>
+    <content type="html"><![CDATA[<p>In order to make a more complete  picture for the <a href="http://sheindel.github.io/blog/2014/06/09/about-this-site/" title="About This Site">first post</a>, I wanted to discuss a few of the (admittedly minor) customizations I&rsquo;ve made to <a href="http://octopress.org/" title="Octopress">Octopress</a> as well as my workflow for creating new content on the site. Hopefully this will help to make you a bit more confident when making your own Octopress site.</p>
+
+<p>&lt;&mdash; MORE &mdash;></p>
+
+<h3><a href="https://disqus.com/" title="Disqus">Disqus</a></h3>
+
+<p>Part of my hope for this blog was to provide an easy platform for discusson on my thoughts, but I wanted something that would be easy to manage, so since Octopress already contains built in support for Disqus it seemed like the natural choice. To get it fully functional, I had to set up an account on Disqus, put in my website info, and specify a Disqus short name. I then had to specify that Disqus short name in _config.yml as follows:</p>
+
+<pre><code># Disqus Comments
+disqus_short_name: sheindel
+disqus_show_comment_count: true
+</code></pre>
+
+<p>And that&rsquo;s it! I now have a comment section for my blog complete with a load of <a href="https://disqus.com/websites/" title="Disqus Features">features from Disqus</a>.</p>
+
+<h3>Word Cloud</h3>
+
+<p>One of the features I&rsquo;ve always enjoyed about blogs is a <a href="http://stackoverflow.com/questions/2881482/what-is-a-rakefile" title="What is a Rakefile?">Word Cloud</a>. It provides a very concise and entertaining analysis of the content of ones blog. While I struggle with the level of flashiness I want to employ, I couldn&rsquo;t help but try out a plugin that I found on the <a href="https://github.com/imathis/octopress/wiki/3rd-party-plugins" title="Octopress 3rd Party Plugins">Octopress 3rd Party Plugins Page</a> called <a href="https://github.com/josephcc/octopress-cumulus" title="Octopress Cumulus">Octopress cumulus</a>. Following their simple instructions, I was able add it as an aside to my blog with little effort. If you create a blog, I highly recommend some type of visual tool like a Word Cloud to help visualize your categorization.</p>
+
+<h3>Google Analytics</h3>
+
+<p>This is probably the area that I am the least familiar with, but because I wanted to have some method of tracking my website traffic, I set up <a href="http://www.google.com/analytics/" title="Google Analytics">Google Analytics</a>, which was incredibly easy, and found that unsurprisingly, I am the only visitor to my own website :&ndash;) In the same manner as Disqus, All I had to do was add my Google Analytics ID to the _config.yml file to make the changes take affect.</p>
+
+<h3>Blogging</h3>
+
+<p>This isn&rsquo;t really a new feature, but I wanted to give you an idea of what is required to blog with <a href="http://octopress.org/" title="Octopress">Octopress</a> and why I like it. So after the intial setup, here is what is required for me to publish a blog</p>
+
+<h5>Step 1: New Blog Post</h5>
+
+<p>So much command line goodness. All I have to do is browse to anywhere in my octopress folder to use the commands in the <a href="http://stackoverflow.com/questions/2881482/what-is-a-rakefile" title="What is a Rakefile?">Rakefile</a>. The primary command that I use from the standard Rakefile is new_post as follows</p>
+
+<pre><code>rake new_post["About This Site II"]
+</code></pre>
+
+<h5>Step 2: Write&hellip;</h5>
+
+<p>The Rakefile will then inform me where the .markdown file wsa placed. At that point I use <a href="http://www.vim.org/" title="VIM - Vi IMproved">my favorite console based editor</a> to write my technology ramblings.</p>
+
+<h5>Step 3: Build/Deploy</h5>
+
+<p>Once I have created some blogosphere junk, I only need to use the following command to build my website and push it up to my <a href="https://pages.github.com/" title="Github Pages">Github Pages</a> repository where it will immediately be available to both of my readers on the world wide web.</p>
+
+<pre><code>rake gen_deploy
+</code></pre>
+
+<p>Alright, that&rsquo;s enough talking about this website. Next time, I&rsquo;ll cover some <a href="https://www.python.org/" title="Python">Python</a> goodness. Maybe someone will even read them (once I finish my blogging seminar&hellip;)</p>
+
+<p><img class="center <a" src="href="http://imgs.xkcd.com/comics/blogging.png">http://imgs.xkcd.com/comics/blogging.png</a>" title="&lsquo;Relevant XKCD&rsquo;" ></p>
+]]></content>
+  </entry>
+  
+</feed>
