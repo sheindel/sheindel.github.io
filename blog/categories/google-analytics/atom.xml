@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Google Analytics | An Adventure In Technology]]></title>
   <link href="http://sheindel.github.io/blog/categories/google-analytics/atom.xml" rel="self"/>
   <link href="http://sheindel.github.io/"/>
-  <updated>2014-06-24T15:22:13-04:00</updated>
+  <updated>2014-06-24T15:25:48-04:00</updated>
   <id>http://sheindel.github.io/</id>
   <author>
     <name><![CDATA[Stephen Heindel]]></name>
@@ -20,7 +20,8 @@
     <id>http://sheindel.github.io/blog/2014/06/24/about-this-site-ii</id>
     <content type="html"><![CDATA[<p>In order to make a more complete  picture for the <a href="http://sheindel.github.io/blog/2014/06/09/about-this-site/" title="About This Site">first post</a>, I wanted to discuss a few of the (admittedly minor) customizations I&rsquo;ve made to <a href="http://octopress.org/" title="Octopress">Octopress</a> as well as my workflow for creating new content on the site. Hopefully this will help to make you a bit more confident when making your own Octopress site.</p>
 
-<p>&lt;&mdash; MORE &mdash;></p>
+<!-- more -->
+
 
 <h3><a href="https://disqus.com/" title="Disqus">Disqus</a></h3>
 
