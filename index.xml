@@ -6,7 +6,17 @@
     <description>Recent content on sheindel.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 15:55:26 -0500</lastBuildDate><atom:link href="http://sheindel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 17:10:42 -0500</lastBuildDate><atom:link href="http://sheindel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wordle Python Cli</title>
+      <link>http://sheindel.github.io/posts/wordle-python-cli/</link>
+      <pubDate>Fri, 14 Jan 2022 17:10:42 -0500</pubDate>
+      
+      <guid>http://sheindel.github.io/posts/wordle-python-cli/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://sheindel.github.io/posts/my-first-post/</link>
