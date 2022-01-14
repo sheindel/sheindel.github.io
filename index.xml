@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sheindel.github.io</title>
-    <link>http://sheindel.github.io/</link>
+    <link>https://sheindel.github.io/</link>
     <description>Recent content on sheindel.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 17:10:42 -0500</lastBuildDate><atom:link href="http://sheindel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 17:10:42 -0500</lastBuildDate><atom:link href="https://sheindel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wordle Python Cli</title>
-      <link>http://sheindel.github.io/posts/wordle-python-cli/</link>
+      <link>https://sheindel.github.io/posts/wordle-python-cli/</link>
       <pubDate>Fri, 14 Jan 2022 17:10:42 -0500</pubDate>
       
-      <guid>http://sheindel.github.io/posts/wordle-python-cli/</guid>
+      <guid>https://sheindel.github.io/posts/wordle-python-cli/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://sheindel.github.io/posts/my-first-post/</link>
+      <link>https://sheindel.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 14 Jan 2022 15:55:26 -0500</pubDate>
       
-      <guid>http://sheindel.github.io/posts/my-first-post/</guid>
+      <guid>https://sheindel.github.io/posts/my-first-post/</guid>
       <description>This is my first post using Hugo on my GitHub pages account. I&amp;rsquo;ve wanted to write more blog content with some interesting things I discover in my work, so this is my attempt to do that. Thanks for reading!</description>
       <content>&lt;p&gt;This is my first post using Hugo on my GitHub pages account. I&amp;rsquo;ve wanted to write more blog content with some interesting things I discover in my work, so this is my attempt to do that. Thanks for reading!&lt;/p&gt;
 </content>

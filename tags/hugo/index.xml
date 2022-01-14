@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on sheindel.github.io</title>
-    <link>https://sheindel.github.io/posts/</link>
-    <description>Recent content in Posts on sheindel.github.io</description>
+    <title>hugo on sheindel.github.io</title>
+    <link>https://sheindel.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on sheindel.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 17:10:42 -0500</lastBuildDate><atom:link href="https://sheindel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wordle Python Cli</title>
-      <link>https://sheindel.github.io/posts/wordle-python-cli/</link>
-      <pubDate>Fri, 14 Jan 2022 17:10:42 -0500</pubDate>
-      
-      <guid>https://sheindel.github.io/posts/wordle-python-cli/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <lastBuildDate>Fri, 14 Jan 2022 15:55:26 -0500</lastBuildDate><atom:link href="https://sheindel.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://sheindel.github.io/posts/my-first-post/</link>
