@@ -37,5 +37,25 @@
       <content></content>
     </item>
     
+    <item>
+      <title>taggy</title>
+      <link>https://sheindel.github.io/tags/taggy/</link>
+      <pubDate>Fri, 14 Jan 2022 15:55:26 -0500</pubDate>
+      
+      <guid>https://sheindel.github.io/tags/taggy/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>with spaces</title>
+      <link>https://sheindel.github.io/tags/with-spaces/</link>
+      <pubDate>Fri, 14 Jan 2022 15:55:26 -0500</pubDate>
+      
+      <guid>https://sheindel.github.io/tags/with-spaces/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
