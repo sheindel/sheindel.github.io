@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sheindel.github.io/about/</loc>
+    <lastmod>2022-01-14T17:46:17-05:00</lastmod>
+  </url><url>
     <loc>https://sheindel.github.io/tags/cli/</loc>
     <lastmod>2022-01-14T17:10:42-05:00</lastmod>
   </url><url>

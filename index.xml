@@ -8,6 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Jan 2022 17:10:42 -0500</lastBuildDate><atom:link href="https://sheindel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://sheindel.github.io/about/</link>
+      <pubDate>Fri, 14 Jan 2022 17:46:17 -0500</pubDate>
+      
+      <guid>https://sheindel.github.io/about/</guid>
+      <description>About me.
+&amp;hellip;
+Thanks for stopping.</description>
+      <content>&lt;p&gt;About me.&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Thanks for stopping.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Wordle Python Cli</title>
       <link>https://sheindel.github.io/posts/wordle-python-cli/</link>
       <pubDate>Fri, 14 Jan 2022 17:10:42 -0500</pubDate>
