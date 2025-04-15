@@ -37,4 +37,4 @@ A sampleing of frameworks and tools I’ve worked with include:
 
 I also have experience across several cloud platforms, including Google Cloud, AWS, Firebase, Azure
 
-In short, I enjoy solving problems—software just happens to be the tool I use most often to do that.
+In addition to my professional software work, I also enjoy woodworking and 3D printing. In my leisure time, I enjoy disc golf, ultimate frisbee, board games, and bike riding.
