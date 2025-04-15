@@ -1,5 +1,5 @@
 baseurl = "https://blog.scsllc.pro"
-title = "sheindel dev blog"
+title = "Stephen Heindel's Blog"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -13,8 +13,8 @@ style = "github-dark"
 
 [params]
   author = "Stephen Heindel"
-  info = "Software Architect"
-  description = "Stephen Heindel's personal website"
+  info = "Principal Software Engineer"
+  description = "Stephen Heindel's blog"
   keywords = "blog,developer,personal"
 #   avatarurl = "images/avatar.jpg"
 
@@ -51,6 +51,10 @@ style = "github-dark"
   name = "Blog"
   weight = 1
   url  = "posts/"
+[[menu.main]]
+  name = "Contact"
+  weight = 2
+  url = "contact/"
 [[menu.main]]
   name = "About"
   weight = 2
