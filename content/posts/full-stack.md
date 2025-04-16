@@ -35,8 +35,8 @@ But as someone who enjoyed broad technical architectures, I was bit miffed - if 
 
 When I was younger, my mother helped me "customize" my notebook for my papers. I honestly don't remember why, but we decided on a lightning bolt on the front. I've also never had excellent handwriting, and when I'm writing my name quickly, I'll scribble an "S" that can often look a lightning bolt. It's such an oddly shaped S that I'll now just put that one letter in lightning bolt form on my cup at parties and it's enough for me to identify it.
 
-Eventually, all of that lightning bolt themed nostalgia led me to the term I'd been missing for the development I do: "cloud to ground". It works on a number of levels: "Cloud", of course, being the general term we use to refer to managed software service platforms and various hosting providers; "Ground" gives the sense of connection, of physical things: "Down to Earth", "Grouned in reality". What happens in the middle, "in the air", is what the human sees: The apps, the websites, the analytics, the data, what is visible to the naked eye. 
-
 ## Conclusion 
+
+Eventually, all of that lightning bolt themed nostalgia led me to the term I'd been missing for the development I do: "cloud to ground". It works on a number of levels: "Cloud", of course, being the general term we use to refer to managed software service platforms and various hosting providers; "Ground" gives the sense of connection, of physical things: "Down to Earth", "Grouned in reality". What happens in the middle, "in the air", is what the human sees: The apps, the websites, the analytics, the data, what is visible to the naked eye. 
 
 I've thought about making that term my own, making it some part of my unique branding, and I might still do that. But for now, for those out there in the same boat as me, feel free to use it for yourself. Maybe it's too "cutesy" to catch on, but it's only one more syllable than "full stack", and I like it for its simplicity and cleverness and maybe you will too.
