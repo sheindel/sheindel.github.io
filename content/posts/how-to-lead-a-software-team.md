@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-04-15T22:28:10-04:00
 title = "Random Observations Of Software Management"
 description = "Random Observations Of Software Management"
@@ -13,7 +13,7 @@ series = []
 
 Recently I was applying for a job and I was asked the following question. The response format was free form, so I ended up monologuing a big about a few things I've noticed about software dev and software teams as of late. This was pretty "off the cuff" and written in about 5 minutes, so maybe I'll clean it up later, but I thought it migth be worth sharing. 
 
-"How would you structure a team working on a diverse SaaS product, and why?"
+## "How would you structure a team working on a diverse SaaS product, and why?"
 
 It is important to ensure that your devs are working on the areas that they will excel in. Some devs are better suited for bug investigation and resolution, and some devs are better suited for more open-ended design and greenfield changes. 
 
