@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-# Software Terms
+# Software Subtitles
 
 In my 15 years of software development, I've had a penchant for variety. For a good portion of my career, I've worked for my employer as a software consultant, which means I ended up with a wide range of experience across languages, frameworks, and business domains. I've worked on consumer and commerical products and services, from Ag to Air Conditioners to Consumer Bluetooth Devices to Robotics, and many more. Working at that level has had me hand-rolling bit-banging display drivers in assembly, re-architecting desktop and mobile applications, and developling cloud architectures in support of all of those things.
 
