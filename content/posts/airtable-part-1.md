@@ -1,5 +1,5 @@
 +++
-date = '2025-04-15T00:08:00-05:00'
+date = '2025-04-14T00:08:00-05:00'
 draft = false
 title = 'AirTable Deep Dive, Part 1: Introduction'
 description = ""
