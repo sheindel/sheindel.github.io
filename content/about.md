@@ -20,7 +20,7 @@ Throughout my career, I've used many programming languages, including, but not l
 - Bash
 - Assembly
 
-A sampleing of frameworks and tools I’ve worked with include:
+A sampling of frameworks and tools I’ve worked with include:
 
 - React
 - Flutter

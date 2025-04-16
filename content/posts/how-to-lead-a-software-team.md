@@ -13,7 +13,7 @@ series = []
 
 # Random Observations Of Software Management
 
-Recently I was applying for a job and I was asked the following question. The response format was free form, so I ended up monologuing a big about a few things I've noticed about software dev and software teams as of late. This was pretty "off the cuff" and written in about 5 minutes, so maybe I'll clean it up later, but I thought it migth be worth sharing. There is definitely a bias here towards pain points I've felt in my role in the last ~3 years.
+Recently I was applying for a job and I was asked the following question. The response format was free form, so I ended up monologuing a big about a few things I've noticed about software dev and software teams as of late. This was pretty "off the cuff" and written in about 5 minutes, so maybe I'll clean it up later, but I thought it might be worth sharing. There is definitely a bias here towards pain points I've felt in my role in the last ~3 years.
 
 ## "How would you structure a team working on a diverse SaaS product, and why?"
 
