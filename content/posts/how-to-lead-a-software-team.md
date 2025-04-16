@@ -2,10 +2,10 @@
 draft = true
 date = 2025-04-15T22:28:10-04:00
 title = "Random Observations Of Software Management"
-description = ""
-slug = ""
-authors = []
-tags = []
+description = "Random Observations Of Software Management"
+slug = "random-software-leadership-observations"
+authors = ["Stephen Heinde"]
+tags = ["leadership", "jobs", "management", "interview", "qa", "tools"]
 categories = []
 externalLink = ""
 series = []
