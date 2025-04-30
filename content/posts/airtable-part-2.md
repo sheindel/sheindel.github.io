@@ -46,4 +46,6 @@ Every `Field` in AirTable has a friendly name and a corresponding `Field ID`. Fo
 }
 ```
 
+<!-- https://codesandbox.io/p/sandbox/react-typescript-forked-wzs2vs?file=%2Fsrc%2FApp.tsx%3A8%2C1 -->
+
 So instead of calling 
